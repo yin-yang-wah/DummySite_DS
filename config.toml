@@ -34,3 +34,16 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[params]
+[[menu.main]]
+name = "Resource Guide"
+weight = 1
+url = "/DummyRes/"
+[[menu.main]]
+name = "WordPress Walkthrough"
+weight = 3
+url = "/DummyWalk/"
+[[menu.main]]
+name = "Definition Page"
+weight = 2
+url = "/DummyDef/"
