@@ -1,7 +1,7 @@
 baseURL = "https://hardcore-boyd-a29e65.netlify.app/"
 languageCode = "en-us"
 title = "My Dummy Site"
-theme = "ananke"
+theme = "m10c"
 
 [build]
 publish = "public"
